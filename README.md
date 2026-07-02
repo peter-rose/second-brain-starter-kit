@@ -24,7 +24,7 @@ second-brain/
 
 **1. Get the kit.**
 ```bash
-git clone <this-repo-url> ~/second-brain
+git clone git@github.com:thejoseplatero/second-brain-starter-kit.git ~/second-brain
 cd ~/second-brain
 ```
 
