@@ -16,7 +16,8 @@ You are operating inside my second brain. This is a flat-file knowledge system d
      "Senior product designer at a fintech. Building toward a design leadership
      role. I care about craft, systems, and shipping." -->
 
-[Your name]. [Your role]. [What you are working toward]. [What you care about].
+Peter Rose. Service Design. Integrating services with products making sure our users have a good experience for what they want to do. I work for Sun Life but that may change. I want to become an expert in making things easier for people to accomplish there goals. Both in the financial wellbeing sector, but also the social, and environmental, education, hobbies, health, social justice, and mental wellness areas. I care about making things better for my self, my family, my team, my community, my city, my ecosystem, my province (Ontario), my country (Canada), my world.
+
 
 ## System structure
 
@@ -64,8 +65,8 @@ Keep notes short. One idea. Dense. If it's getting long, split it.
      These are examples. Replace them with yours. -->
 
 - Keep responses direct. Lead with the answer.
-- [Your writing style rules]
-- [Formats you like or hate]
+- I am dyslexic so I want bullet points and if possible dyslexic font, I want paragraphs that help break up the wall of text so I can read easier.
+- I like brief summaries that are numbered so I can then follow the details should I want them by going deeper by following the number in the to long didn't read version.
 
 ## What NOT to do
 
